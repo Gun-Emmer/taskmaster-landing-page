@@ -1,9 +1,10 @@
+
 # TaskMaster - SaaS Landing Page
 
 A modern, clean, and responsive product landing page for a task management application (SaaS). 
 
 ## 🌐 Live Demo
-👉 **[Click Here to View Live Demo]([https://gun-emmer.github.io/taskmaster-landing-page/])** 
+👉 **[Click Here to View Live Demo](https://gun-emmer.github.io/taskmaster-landing-page/)**
 
 ## ✨ Features
 - 📱 **Fully Responsive Layout:** Optimized for Mobile, Tablet, and Desktop screens.
@@ -18,4 +19,4 @@ A modern, clean, and responsive product landing page for a task management appli
 - **JavaScript (ES6+)** (DOM Manipulation)
 
 ## 👤 Author
-- GitHub: [@username-kamu](https://github.com/username-kamu)
+- GitHub: [@Gun-Emmer](https://github.com/username-kamu)
